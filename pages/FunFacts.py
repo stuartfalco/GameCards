@@ -1,5 +1,6 @@
 import streamlit as st
 import random
+import os
 
 st.markdown("# Fun Facts 🎉")
 st.sidebar.markdown("# Fun Facts 🎉")
@@ -24,9 +25,9 @@ def load_text_file(file_path):
         return []
     
 
-cards = ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King']
-
-cards = load_text_file('/Users/stuartfalco/Desktop/VS_code_projects/004_GameCards_st/FunFacts.txt')
+#cards = ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King']
+file_path = os.path.join(os.getcwd(),'FunFacts.txt')
+cards = load_text_file(file_path)
 
 def shuffle_cards(cards):
     

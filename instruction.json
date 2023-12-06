@@ -1,0 +1,58 @@
+{
+    "FunFacts": [
+        "Reveal a new question & everyone secretly writes their answer on their arrow face down",
+        "Take turns placing arrow in relation to others from LOW to HIGH",
+        "After everyone has placed their answer, the starting player has the opportunity to move their own arrow — without touching anyone else's!",
+        "Then you reveal everyone's numbers, and removes each arrow that is out of order.",
+        "Each remaining arrow represents a correct answer and provides one point for the entire team.",
+        "After eight rounds, record the team's score in the Record of Legends."
+    ],
+    "JustOne": [
+        "1 person is the Guesser for the Round ; who doesn't see the SECRET WORD",
+        "Everyone else write a single word clue for the SECERET WORD",
+        "once done ; Clue Givers compare words & erase any Identical Clues",
+        "now Guesser turn to guess SECRET WORD from clues",
+        "Play 13 rounds "
+    ],
+    "HiveMind": [
+        "someone reads a category for the round",
+        "Everyone has 1 minute to write the number of required answers for the category",
+        "go round the table ; seeing how many people match each answer ( thats how many points you get)",
+        "Player with lowest score for the round gets a X",
+        "once anyone gets 3 Strikes; game ends"
+    ],
+    "DoodleDash": [
+        "Each round, one player is the guesser, and all other players are drawers.",
+        " The drawers try to draw a word as fast and accurate as they can.",
+        "The guesser takes turns guessing the word for that round from each drawing, beginning with the player who finished their drawing first.",
+        "The player whose drawing is the first to be guessed correctly, wins the round, and the guesser and that drawer receive 1 point each."
+    ],
+    "OkayGenius": [
+        "the GENIUS will read the question for the round ",
+        "whatever GENIUS writes is the ANSWER",
+        "once everyone has a answer; they are revealed to all",
+        "player will closet to GENIUS gets a point",
+        "play a round for every player"
+    ],
+    "MonsDRAWsity": [
+        "Witness memorizes a card for 20 seconds then places the card face down",
+        "Witeness describes a monster for 2 minutes while all other players draw and ask questions",
+        "After time is up, artists reveal drawings and the Witness secretly writes down their vote without looking at the monster",
+        "Witness flips over monster card to reveal the illustration",
+        "Artists simulataneously vote which one of them did the closest sketch",
+        "Reveal all votes and whoever got most votes gets 1 point",
+        "Witness reveals who they picked & that artist gets 1 point ",
+        "plus if witness picked most votes person ; witness gets 1 point",
+        "play untill everyone is Witness twice"
+    ],
+    "TopTen": [
+        "start game with as many tokens as players",
+        "Chief for the round randomly passes out card from 1-10 to each player",
+        "Chief then reads the scenario card",
+        "Chief then gives an answered based on their number",
+        "Each other player then gives an answer to this scenario",
+        "Chief then decides who has the lowest number , then next lowest and so on",
+        "for each mistake , the chief flips a token",
+        "try to survive 5 rounds"
+    ]
+}
